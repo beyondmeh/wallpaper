@@ -1,4 +1,4 @@
-# ~/bin/wallpaper
+# Dynamic Wallpapers
 
 > The calmer and more well-ordered my desktop is, the more I can convince myself I'm on top of things.
 >
